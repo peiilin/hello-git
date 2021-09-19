@@ -7,3 +7,5 @@
 #### 是放假的前一天
 
 #### 老師中秋節快樂
+
+![](C/Users/Pei/hello-git/mooncake.jpg)
