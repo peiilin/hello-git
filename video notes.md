@@ -1,4 +1,7 @@
+
 # :books:大腦解鎖---六招學習法
+ 
+:high_brightness: [HackMD連結](https://hackmd.io/@peii/SJ1OBVjmt)
 
 #### `固定性思維 Fixed Mindset` 
 >認為一個人的頭腦、才智、才華有某個定數。
